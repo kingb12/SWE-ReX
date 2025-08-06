@@ -1,14 +1,13 @@
 <div align="center">
-<a href="https://swe-rex.com"><img src="docs/assets/swe-rex-logo-bg.svg" alt="SWE-ReX" style="height: 10em"/></a>
+<a href="https://swe-rex.com"><img src="docs/assets/swe-rex-logo-bg.svg" alt="SWE-ReX" style="height: 7em"/></a>
+</div>
 
 # SWE-agent Remote Execution Framework
 
-[👉 Read the documentation 👈](https://swe-rex.com)
 
-[![Pytest](https://github.com/SWE-agent/swe-rex/actions/workflows/pytest.yaml/badge.svg)](https://github.com/SWE-agent/swe-rex/actions/workflows/pytest.yaml)
-[![Check Markdown links](https://github.com/SWE-agent/swe-rex/actions/workflows/check-links.yaml/badge.svg)](https://github.com/SWE-agent/swe-rex/actions/workflows/check-links.yaml)
-[![build-docs](https://github.com/SWE-agent/swe-rex/actions/workflows/build-docs.yaml/badge.svg)](https://github.com/SWE-agent/swe-rex/actions/workflows/build-docs.yaml)
-</div>
+[![Docs](https://img.shields.io/badge/Docs-green?style=for-the-badge&logo=materialformkdocs&logoColor=white)](https://swe-rex.com/latest/)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://join.slack.com/t/swe-bench/shared_invite/zt-36pj9bu5s-o3_yXPZbaH2wVnxnss1EkQ)
+[![PyPI - Version](https://img.shields.io/pypi/v/swe-rex?style=for-the-badge&logo=python&logoColor=white&labelColor=black&color=deeppink)](https://pypi.org/project/swe-rex/)
 
 SWE-ReX is a runtime interface for interacting with sandboxed shell environments, allowing you to effortlessly let your AI agent run *any command* on *any environment*.
 
@@ -57,7 +56,7 @@ Then head over to [our documentation](https://swe-rex.com/) to learn more!
 [SWE-bench]: https://swebench.com
 [enigma]: https://enigma-agent.com/
 
-## Our other projects:
+## Our other projects
 
 <div align="center">
   <a href="https://github.com/SWE-agent/SWE-agent"><img src="docs/assets/sweagent_logo_text_below.svg" alt="SWE-agent" height="120px"></a>
@@ -71,3 +70,4 @@ Then head over to [our documentation](https://swe-rex.com/) to learn more!
   &nbsp;&nbsp;
   <a href="https://github.com/SWE-bench/sb-cli"><img src="docs/assets/sbcli_logo_text_below.svg" alt="sb-cli" height="120px"></a>
 </div>
+
